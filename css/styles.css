@@ -194,6 +194,7 @@ h1, h2, h3, ul, p {
 }
 
 .icon-antenna::before {
+    content: '';
     background-image: url('../images/antenna.svg');
     background-repeat: no-repeat;
     background-size: 64px;
@@ -201,6 +202,7 @@ h1, h2, h3, ul, p {
 }
 
 .icon-clock::before {
+    content: '';
     background-image: url('../images/clock.svg');
     background-repeat: no-repeat;
     background-size: 64px;
@@ -208,6 +210,7 @@ h1, h2, h3, ul, p {
 }
 
 .icon-diagram::before {
+    content: '';
     background-image: url('../images/diagram.svg');
     background-repeat: no-repeat;
     background-size: 64px;
@@ -215,6 +218,7 @@ h1, h2, h3, ul, p {
 }
 
 .icon-astronaut::before {
+    content: '';
     background-image: url('../images/astronaut.svg');
     background-repeat: no-repeat;
     background-size: 64px;
