@@ -127,8 +127,10 @@ h1, h2, h3, ul, p {
     background-color: var(--navy-blue);
     background-image: linear-gradient( rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)), url(../images/people-office.jpg);
     background-repeat: no-repeat;
-    background-size: 1440px;
     background-position: center;
+    background-size: cover;
+    max-width: 1440px;
+    margin: 0 auto;
     text-align: center;
     padding-top: 192px;
     padding-bottom: 192px;
